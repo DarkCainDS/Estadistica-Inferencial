@@ -1,0 +1,9 @@
+Significancia estadística
+Cuando hacemos una prueba de hipótesis, buscamos significancia estadística para aceptar o rechazar.
+
+Un resultado tiene significancia estadística cuando este tiene poca probabilidad de haber ocurrido dada la hipótesis nula. Para esto usamos el p-value.
+
+P-value
+Es la probabilidad de obtener un valor que sea al menos tan extremo como el observado, considerando que la hipótesis nula sea verdadera.
+
+Para que exista significancia, el p-value debe ser menor que 0.05, o en otros casos, menor que 0.01.
